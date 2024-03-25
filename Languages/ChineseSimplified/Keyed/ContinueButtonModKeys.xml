@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Continue>继续</Continue>
+    <NoSavedGamesFound>未找到已保存的游戏。</NoSavedGamesFound>
+    <ContinueLoading>加载中</ContinueLoading>
+    <GameVersionMismatch>游戏版本不同</GameVersionMismatch>
+</LanguageData>

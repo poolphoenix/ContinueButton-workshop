@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Continue>Jatka</Continue>
+    <NoSavedGamesFound>Tallennettuja pelejä ei löytynyt.</NoSavedGamesFound>
+    <ContinueLoading>Ladataan</ContinueLoading>
+    <GameVersionMismatch>Erilainen peliversio</GameVersionMismatch>
+</LanguageData>
